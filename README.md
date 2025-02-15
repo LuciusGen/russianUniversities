@@ -1,0 +1,3 @@
+# Russian universities list
+
+
